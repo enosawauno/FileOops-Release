@@ -1,10 +1,6 @@
 # FileOops 🚀
 > **让文件不再 Whoops！** 一款由独立开发者爆肝打造的高效文件管理工具。
 
-## 📸 界面预览
-<img width="800" alt="ScreenShot_2026-10-13_083639_436" src="https://github.com/user-attachments/assets/6cb6ccff-0aef-4534-944f-f94ac44c865f" />
-<img width="800" alt="ScreenShot_2026-10-13_083626_927" src="https://github.com/user-attachments/assets/74b3cf0d-5ba2-45f8-ac8c-50593c937ecc" />
-
 ## 💡 关于 FileOops
 在整理电脑文件时，你是不是也经常遇到“哎呀（Oops）”又重命名错了、“哎呀”又找不到文件的崩溃瞬间？
 **FileOops** 就是为了解决这些痛点而生的。不仅支持多语言（中日韩英等）和多套精美主题配色，还接入了本地 AI 大模型，无需联网即可极速处理你的文件。
